@@ -1,0 +1,25 @@
+#main_Index{
+    background-color:#f2e8df;
+}
+
+#header_Section{
+    height: 100vh;
+}
+
+#firstText{
+    font-size: 200px;
+    color: #f24150;
+    font-family: BarlowBold;
+}
+
+#secondText{
+    font-size: 200px;
+    color: #3a3a3a;
+    margin-top: -3%;
+    font-family: BarlowBold;
+}
+
+@font-face {
+    font-family: BarlowBold;
+    src: url(fonts/Barlow-ExtraBold.ttf);
+  }
